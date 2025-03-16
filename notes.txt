@@ -1,0 +1,35 @@
+
+Before Siri and Alexa, there was Eliza
+https://www.youtube.com/watch?v=RMK9AphfLco&ab_channel=EmmaGoldman
+
+https://www.livescience.com/technology/eliza-the-worlds-1st-chatbot-was-just-resurrected-from-60-year-old-computer-code
+
+The "DOCTOR" script written for ELIZA was programmed to respond to questions as a psychotherapist would. For example, ELIZA would say, "Please tell me your problem." If the user input "Men are all alike," the program would respond, "In what way."
+
+The script is 420 lines.
+
+Weizenbaum wrote ELIZA in a now-defunct programming language he invented, called Michigan Algorithm Decoder Symmetric List Processor (MAD-SLIP), but it was almost immediately copied into the language Lisp.
+
+https://blog.adafruit.com/2025/01/21/the-code-for-eliza-the-original-1960s-chatbot-found/
+
+Live demo: https://www.masswerk.at/eliza/
+
+https://en.wikipedia.org/wiki/ELIZA
+https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
+
+
+https://en.wikipedia.org/wiki/Anthropomorphism
+
+
+"Computer Power and Human Reason: From Judgment to Calculation" by Joseph Weizenbaum, a classic work exploring the ethical implications of computers and AI, argues that while computers can be powerful tools, they should not be seen as replacements for human judgment and ethical decision-making. 
+Here's a more detailed review:
+Central Argument:
+Weizenbaum, a pioneer in AI and creator of the chatbot Eliza, contends that despite their capabilities, computers are fundamentally different from humans and cannot replicate human judgment, creativity, or moral reasoning. 
+Ethical Concerns:
+The book raises important ethical questions about the use of computers in areas like decision-making, problem-solving, and even in therapeutic settings. 
+Focus on Human Qualities:
+Weizenbaum emphasizes the unique human qualities that computers lack, such as intuition, empathy, and the ability to make nuanced judgments based on context and experience
+
+
+
+

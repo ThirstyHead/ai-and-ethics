@@ -1,0 +1,23 @@
+{
+  "name": "ai-and-ethics",
+  "version": "1.0.0",
+  "description": "AI and Ethics: Navigating the Future of Responsible Technology",
+  "homepage": "https://github.com/ThirstyHead/ai-and-ethics#readme",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/ai-and-ethics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/ai-and-ethics.git"
+  },
+  "license": "ISC",
+  "author": "Scott Davis <scott@thirstyhead.com>",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  }
+}
